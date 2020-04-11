@@ -1,6 +1,6 @@
 <template>
     <div id="cart">
-        购物车
+        请加入购物车
     </div>
 </template>
 
